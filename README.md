@@ -1,2 +1,1 @@
-# project-ghost-runer
-a horror game
+# C20
